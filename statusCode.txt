@@ -1,0 +1,4 @@
+201 => Created,
+200 => Okay / Good request / Success
+500 => Internal server error / Error,
+400 => Bad request,
